@@ -1,0 +1,37 @@
+[[MediaUI]]
+	[headphone_message_title]
+		en = Listen In.
+		es = Escuche.
+		zh = 收听
+	[headphone_message_body]
+		en = Use your headphones to listen.\n\nDon’t have headphones?\nHold the phone close to your ear.
+		es = Use los auriculares.\n\n¿No tiene?\nColoque el teléfono cerca del oído.
+		zh = 使用你的耳机收听。没有配备耳机？请将听筒靠近耳朵。
+	[audio_info_related_tours]
+		en = Related Tours
+		es = Visitas relacionadas
+		zh = 相关游览
+	[audio_player_cancel_audio_content_description]
+		en = Close
+		es = Cancel Audio
+		zh = 关闭
+	[audio_player_loading]
+		en = Loading
+		es = Cargando
+		zh = 加载中
+		comment = Not used on Android
+	[audio_player_load_failure_title]
+		en = Failed to load this item.
+		es = No se pudo cargar este elemento.
+		zh = 未能加载此项目
+		comment = Not used on Android
+	[audio_player_load_failure_body]
+		en = We were unable to load the object at this time. Please check your connection and try again.
+		es = No pudimos cargar el objeto en este momento. Verifique su conexión e intente nuevamente.
+		zh = 目前我们无法加载此项。请检查您的连接并再次尝试。
+		comment = Not used on Android
+	[audio_player_load_failure_try_again_action]
+		en = Try Again
+		es = Inténtelo nuevamente
+		zh = 再次尝试
+		comment = Not used on Android

@@ -1,0 +1,152 @@
+[[Base]]
+	[global_current_language]
+		en = English
+		es = Español
+		zh = 中文
+	[welcome_title]
+		en = Welcome
+		es = Bienvenido
+		zh = 欢迎
+	[tour_play_tour_introduction_action]
+		en = Play Tour Introduction
+		es = Reproducir la Presentación del Tour
+		zh = 播放游览简介
+	[search_suggested]
+		en = Suggested
+		es = Sugeridos
+		zh = 推荐项目
+	[search_on_the_map_header]
+		en = On the map
+		es = Mapa
+		zh = 在地图上
+	[welcome_member_card_action]
+		en = Access your member card
+		es = Acceda a su tarjeta para miembros
+		zh = 访问您的会员卡。
+	[welcome_tours_header]
+		en = Tours
+		es = Visitas
+		zh = 游览
+	[welcome_on_view_header]
+		en = On View
+		es = En vista
+		zh = 当前展览
+	[welcome_see_all_action]
+		en = See All
+		es = Ver todo
+		zh = 查看全部
+	[tour_stop_count]
+		en = %@ Stops
+		es = %@ Terminas
+		zh = %@ 停止
+	[welcome_events_header]
+		en = Events
+		es = Eventos
+		zh = 活动
+	[tour_audio_channel_name]
+		en = Audio
+		es = Audio
+		zh = 音频
+	[audio_info_transcript_header]
+		en = Transcript
+		es = Texto
+		zh = 脚本
+	[audio_info_credits_header]
+		en = Credits
+		es = Créditos
+		zh = 信用
+	[tour_leave_tour_title]
+		en = Leave Current Tour?
+		es = ¿Salir del Tour Actual?
+		zh = 退出当前游览？
+	[tour_leave_tour_cancel_action]
+		en = Continue Tour
+		es = Continuar
+		zh = 继续游览
+	[tour_leave_tour_leave_action]
+		en = Leave Tour
+		es = Salir
+		zh = 离开游览
+	[tab_home]
+		en = Home
+		es = Inicio
+		zh = 首页
+	[tab_info]
+		en = Info
+		es = Información
+		zh = 信息
+	[tab_map]
+		en = Map
+		es = Mapa
+		zh = 地图
+	[tab_audio]
+		en = Audio
+		es = Audio
+		zh = 音频
+	[search_title]
+		en = Search
+		es = Búsqueda
+		zh = 搜索
+	[search_prompt]
+		en = Looking for Artwork?
+		es = ¿Buscando obras de arte?
+		zh = 寻找艺术品？
+	[tour_start_tour_action]
+		en = Start Tour
+		es = Comenzar visita
+		zh = 开始游览
+	[content_through_date]
+		en = Through %@
+		es = Hasta %@
+		zh = 通過 %@
+	[event_buy_tickets_action]
+		en = Buy Tickets
+		es = Comprar boletos
+		zh = 购票
+		comment = Currently not used in iOS
+	[event_register_action]
+		en = Register
+		es = Registro
+		zh = 寄存器
+		comment = Currently not used in iOS
+	[content_play_audio_action]
+		en = Play Audio
+		es = Reproducir audio
+		zh = 播放音频
+	[content_show_on_map_action]
+		en = Show on Map
+		es = Ver mapa
+		zh = 在地图上显示
+	[content_gallery_number]
+		en = Gallery %@
+		es = Galería %@
+		zh = 画廊 %@
+		comment = Currently not used in iOS
+	[welcome_title_logged_in]
+		en = Welcome, %@
+		es = Bienvenido, %@
+		zh = 欢迎, %@
+		comment = Currently not used in iOS
+	[event_rental_visit_website_prompt]
+		en = Visit our website to register.
+		es = Visite nuestro sitio web para registrarse.
+		zh = 訪問我們的網站進行註冊。
+		comment = Currently not used in iOS
+	[global_cancel_action]
+		en = Not Right Now
+		es = No Ahora
+		zh = 不是现在
+	[global_accept_action]
+		en = Ok
+		es = Ok
+		zh = 确定
+	[global_error_title]
+		en = Error
+	[global_loading_error_title]
+		en = Loading Error
+	[global_loading_error_general]
+		en = Failed to load application data.
+	[global_loading_error_no_connectivity]
+		en = No internet connection.
+	[global_loading_error_time_out]
+		en = Network time out. Please try again.

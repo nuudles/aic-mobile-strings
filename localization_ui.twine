@@ -1,0 +1,13 @@
+[[LocalizationUI]]
+	[language_settings_title]
+		en = Language Settings
+		es = Configuración de idiomas
+		zh = 语言设置
+	[language_settings_body]
+		en = Some content may not be available in your selected language.
+		es = Es posible que cierta información no esté disponible en el idioma seleccionado.
+		zh = 某些内容可能不提供您所选择的语言版本。
+	[language_settings_header]
+		en = Please Choose Your Preferred Language
+		es = Elija su idioma de preferencia
+		zh = 请选择您的首选语言

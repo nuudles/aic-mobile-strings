@@ -1,0 +1,13 @@
+[[Localization]]
+	[localization_english]
+		en = English
+		es = Inglés
+		zh = 英文
+	[localization_spanish]
+		en = Spanish
+		es = Español
+		zh = 西班牙语
+	[localization_chinese]
+		en = Chinese
+		es = Chino
+		zh = 中文

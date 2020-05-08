@@ -1,0 +1,10 @@
+[[Audio]]
+	[number_pad_go_action]
+		en = Go
+		es = Va
+		zh = 走
+	[number_pad_delete_description]
+		en = Delete
+		es = Borrar
+		zh = 删除
+		comment = Currently not used in iOS

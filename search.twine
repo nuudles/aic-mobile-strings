@@ -1,0 +1,30 @@
+[[Search]]
+	[search_no_results_header]
+		en = Sorry, we couldn’t find that.
+		es = Lo sentimos, no encontramos resultados
+		zh = 抱歉，我们无法找到。
+	[search_no_results_message]
+		en = For help, visit the nearest museum representative or
+		es = Para obtener ayuda, visite al representante del museo más cercano o
+		zh = 如需帮助，请咨询最近的博物馆人员或
+		comment = This is broken up on iOS
+	[search_no_results_visit_website_action]
+		en = visit our website
+		es = visite nuestro sitio web
+		zh = 访问我们的网站
+	[search_artworks_header]
+		en = Artworks
+		es = Obras de arte
+		zh = 艺术作品
+	[search_exhibitions_header]
+		en = Exhibitions
+		es = Exhibiciones
+		zh = 展览
+	[map_card_exhibition_title]
+		en = Exhibition
+		es = Exhibición
+		zh = 展览
+	[map_card_artwork_title]
+		en = Artwork
+		es = Obra de arte
+		zh = 艺术品
