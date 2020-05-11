@@ -25,6 +25,6 @@
 		zh = 位置服務關閉
 		comment = This doesn't exist on iOS
 	[location_settings_location_never_asked]
-		en = @string/location_title
-		es = @string/location_title
-		zh = @string/location_title
+		en = @string/location_settings_title
+		es = @string/location_settings_title
+		zh = @string/location_settings_title
