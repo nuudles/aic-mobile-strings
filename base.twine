@@ -71,18 +71,26 @@
 		en = Home
 		es = Inicio
 		zh = 首页
+		ko = 집
+		fr = Accueil
 	[tab_info]
 		en = Info
 		es = Información
 		zh = 信息
+		ko = 정보
+		fr = Info
 	[tab_map]
 		en = Map
 		es = Mapa
 		zh = 地图
+		ko = 지도
+		fr = Carte
 	[tab_audio]
 		en = Audio
 		es = Audio
 		zh = 音频
+		ko = 오디오
+		fr = l'audio
 	[search_title]
 		en = Search
 		es = Búsqueda

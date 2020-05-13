@@ -16,6 +16,8 @@ for ((i=0;i<${#twineFiles[@]};++i)); do
 	twine generate-localization-file --lang en $twineFile $1/en.lproj/$stringsFile
 	twine generate-localization-file --lang es $twineFile $1/es.lproj/$stringsFile
 	twine generate-localization-file --lang zh $twineFile $1/zh-Hans.lproj/$stringsFile
+	twine generate-localization-file --lang ko $twineFile $1/ko.lproj/$stringsFile
+	twine generate-localization-file --lang fr $twineFile $1/fr.lproj/$stringsFile
 
 	echo $twineFile converted
 done

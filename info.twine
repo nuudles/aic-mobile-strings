@@ -28,14 +28,20 @@
 		en = Museum Information
 		es = Información sobre el museo
 		zh = 博物馆信息
+		ko = 박물관정보
+		fr = Informations sur le musée
 	[info_language_settings_action]
 		en = Language Settings
 		es = Configuración de idiomas
 		zh = 语言设置
+		ko = 언어설정
+		fr = Paramètres de langue
 	[info_location_settings_action]
 		en = Location Settings
 		es = Configuración de ubicación
 		zh = 地点设置
+		ko = 위치설정
+		fr = Les paramètres de localisation
 	[info_supported_by_header]
 		en = Supported By
 		es = Patrocinado por
