@@ -1,0 +1,30 @@
+[[LocationUI]]
+	[location_settings_title]
+		en = Location Settings
+		es = Configuración de ubicación
+		zh = 地点设置
+	[location_settings_header]
+		en = Where Are You?
+		es = ¿Dónde está usted?
+		zh = 您在哪里？
+	[location_settings_body]
+		en = We’d like to use your location to help you navigate the museum.
+		es = Nos gustaría usar su ubicación para ayudarle a navegar por el museo.
+		zh = 我们想使用您的位置帮助您找到博物馆。
+	[locations_settings_location_disabled]
+		en = Location Disabled
+		es = Ubicación deshabilitada
+		zh = 禁用定位服务
+	[locations_settings_location_enabled]
+		en = Location Enabled
+		es = Ubicación habilitada
+		zh = 启用定位服务
+	[locations_settings_location_off]
+		en = Location Service Off
+		es = Servicio de ubicación desactivado
+		zh = 位置服務關閉
+		comment = This doesn't exist on iOS
+	[location_settings_location_never_asked]
+		en = @string/location_settings_title
+		es = @string/location_settings_title
+		zh = @string/location_settings_title

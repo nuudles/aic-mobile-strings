@@ -1,0 +1,55 @@
+[[AccessCard]]
+	[member_card_become_member_header]
+		en = Become a Member
+		es = Hágase miembro
+		zh = 成为会员
+	[sign_in_action]
+		en = Sign In
+		es = Iniciar sesión
+		zh = 登录
+	[sign_in_zip_code_header]
+		en = Zip Code
+		es = Código postal
+		zh = 邮编
+	[sign_in_member_id_header]
+		en = Member ID
+		es = Identificación del Miembro…
+		zh = 会员账号
+	[member_card_change_information_action]
+		en = Change Information
+		es = Cambiar información
+		zh = 更改信息
+	[member_card_switch_cardholder_action]
+		en = Switch Cardholder
+		es = Cambiar titular de tarjeta
+		zh = 交换持卡人
+	[member_card_title]
+		en = Member Card
+		es = Tarjeta del Miembro
+		zh = 会员卡
+	[member_card_access_action]
+		en = Access Member Card
+		es = Tarjeta de acceso para miembros
+		zh = 访问会员卡
+	[member_card_expires]
+		en = Expires: %@
+		es = Vence: %@
+		zh = 截止: %@
+	[member_card_member_id]
+		en = ID: %@
+		es = ID: %@
+		zh = ID: %@
+		comment = Currently not used in iOS
+	[sign_in_zip_code_placeholder]
+		en = Enter your home zip code…
+		es = Ingrese su código postal…
+		zh = 输入您家庭所在的邮编
+	[sign_in_member_id_placeholder]
+		en = Enter your Member ID…
+		es = Ingrese la Identificación del Miembro…
+		zh = 输入您的会员账号
+	[sign_in_failure_title]
+		en = Could not find Member Information
+		es = No se pudo encontrar la información del Miembro
+		zh = 无法找到会员信息
+		comment = Android seems to be getting an error from the backend rather than using static text

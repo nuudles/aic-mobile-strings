@@ -1,0 +1,58 @@
+[[Map]]
+	[map_dismiss_action]
+		en = Dismiss
+		es = Anular
+		zh = 抛弃
+	[map_next_action]
+		en = Next
+		es = Siguiente
+		zh = 下一个
+	[map_back_action]
+		en = Back
+		es = Atras
+		zh = 背部
+	[map_close_content_description]
+		en = Close
+		es = Cerrar
+		zh = 关闭
+		comment = This doesn't exist on iOS
+	[map_tutorial_floor_picker_prompt]
+		en = You are on the %@\nTap to change floors.
+		es = Usted está en %@\nTocar para cambiar las pistas.
+		zh = 您在%@\n点击更换地板。
+	[map_tutorial_orient_map]
+		en = Tap to Orient Map
+		es = Presione para orientar el mapa
+		zh = 放大缩小以探索地图。
+	[map_tutorial_explore_title]
+		en = Explore The Map
+		es = Explorar el mapa
+		zh = 探索地图
+	[map_tutorial_explore_text]
+		en = Pinch to explore the map.
+		es = Apretar y acercar para explorar el mapa.
+		zh = 缩放以探索地图。
+	[map_tutorial_audio_pins_title]
+		en = Tap Audio Pins to Listen
+		es = Tocar los pines de audio para escuchar
+		zh = 点击音频引脚进行收听
+	[map_tutorial_audio_pins_text]
+		en = Transparent pins indicate audio on a different floor.
+		es = Los pines transparentes indican audio en una pista diferente.
+		zh = 不同楼层上的透明引脚指示音频
+	[map_lower_level]
+		en = Lower Level
+		es = Planta baja
+		zh = 下层
+	[map_first_level]
+		en = First Level
+		es = Primer piso
+		zh = 一层
+	[map_second_level]
+		en = Second Level
+		es = Segundo piso
+		zh = 二层
+	[map_third_level]
+		en = Third Level
+		es = Tercer piso
+		zh = 三层

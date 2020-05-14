@@ -1,0 +1,31 @@
+[[Localization]]
+	[localization_english]
+		en = English
+		es = Inglés
+		zh = 英文
+		ko = 영어
+		fr = Anglaise
+	[localization_spanish]
+		en = Spanish
+		es = Español
+		zh = 西班牙语
+		ko = 스페인의
+		fr = Espagnol
+	[localization_chinese]
+		en = Chinese
+		es = Chino
+		zh = 中文
+		ko = 중국말
+		fr = Chinoise
+	[localization_korean]
+		en = Korean
+		es = Coreano
+		zh = 韩语
+		ko = 한국어
+		fr = Coréen
+	[localization_french]
+		en = French
+		es = Francés
+		zh = 法文
+		ko = 프랑스 국민
+		fr = Française
