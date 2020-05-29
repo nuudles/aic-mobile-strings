@@ -3,35 +3,51 @@
 		en = Listen In.
 		es = Escuche.
 		zh = 收听
+		fr = Écouter.
+		ko = 듣기
 	[headphone_message_body]
 		en = Use your headphones to listen.\n\nDon’t have headphones?\nHold the phone close to your ear.
 		es = Use los auriculares.\n\n¿No tiene?\nColoque el teléfono cerca del oído.
-		zh = 使用你的耳机收听。没有配备耳机？请将听筒靠近耳朵。
+		zh = 使用你的耳机收听。\n\n没有配备耳机？\n\n请将听筒靠近耳朵。
+		fr = Utilisez les écouteurs pour écouter. \n\nVous n’avez pas d’écouteurs ?\n\n Tenez le téléphone près de votre oreille.
+		ko = 헤드폰을 사용하여 들으십시오.\n\n 헤드폰이 없는 경우 전화기를 귀에 가까이 잡고 들으십시오.
 	[audio_info_related_tours]
 		en = Related Tours
 		es = Visitas relacionadas
 		zh = 相关游览
+		fr = Visites connexes
+		ko = 관련 투어
 	[audio_player_cancel_audio_content_description]
 		en = Close
 		es = Cancel Audio
 		zh = 关闭
+		fr = Fermer
+		ko = 닫기
 	[audio_player_loading]
 		en = Loading
 		es = Cargando
 		zh = 加载中
+		fr = Chargement
+		ko = 로딩
 		comment = Not used on Android
 	[audio_player_load_failure_title]
 		en = Failed to load this item.
 		es = No se pudo cargar este elemento.
 		zh = 未能加载此项目
+		fr = N’a pas réussi à charger cet élément.
+		ko = 아이템 로드에 실패했습니다.
 		comment = Not used on Android
 	[audio_player_load_failure_body]
 		en = We were unable to load the object at this time. Please check your connection and try again.
 		es = No pudimos cargar el objeto en este momento. Verifique su conexión e intente nuevamente.
 		zh = 目前我们无法加载此项。请检查您的连接并再次尝试。
+		fr = Nous n’avons pas pu charger l’objet à ce moment-là. Veuillez vérifier votre connexion et réessayer.
+		ko = 이번에는 로드 할 수 없습니다. 인터넷 연결을 확인하고 다시 시도해 주세요.
 		comment = Not used on Android
 	[audio_player_load_failure_try_again_action]
 		en = Try Again
 		es = Inténtelo nuevamente
 		zh = 再次尝试
+		fr = Réessayer
+		ko = 다시 시도하십시오
 		comment = Not used on Android

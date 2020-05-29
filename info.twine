@@ -3,54 +3,70 @@
 		en = Purchase tickets for admission, exhibition, and events.
 		es = Compra boletos para admisión, exhibición y eventos.
 		zh = 購買入場，展覽和活動門票。
+		fr = Acheter des billets pour l’entrée, l’exposition et les événements.
+		ko = 입장, 전시회 및 행사 티켓을 구매하십시오.
 	[info_purchase_tickets_rental_prompt]
 		en = Visit our website to buy tickets and register.
 		es = Visita nuestro sitio web para comprar boletos.
 		zh = 訪問我們的網站購買門票。
+		fr = Visiter notre site web pour acheter des billets et vous inscrire.
+		ko = 티켓 구매 및 등록을 위해서는 웹사이트를 방문하십시오.
 		comment = This doesn't exist on iOS
 	[info_member_header]
 		en = Become a Member
 		es = Hágase miembro
 		zh = 成为会员
+		fr = Devenir membre
+		ko = 회원가입
 	[info_member_prompt]
 		en = Enjoy free, year long admission.
 		es = Disfrute de admisión gratuita durante todo el año.
 		zh = 享受免费的年票。
+		fr = Profiter d’une entrée gratuite toute l’année.
+		ko = 1년간의 무료 입장을 즐기세요.
 	[info_member_join_action]
 		en = Join Now
 		es = Unirse ahora mismo
 		zh = 现在加入
+		fr = S’inscrire maintenant
+		ko = 바로 가입
 	[info_member_card_action]
 		en = Access Member Card
 		es = Tarjeta de acceso para miembros
 		zh = 访问会员卡
+		fr = Carte d’accès
+		ko = 회원 카드 액세스
 	[info_museum_info_action]
 		en = Museum Information
 		es = Información sobre el museo
 		zh = 博物馆信息
-		ko = 박물관정보
 		fr = Informations sur le musée
+		ko = 박물관 정보
 	[info_language_settings_action]
 		en = Language Settings
 		es = Configuración de idiomas
 		zh = 语言设置
-		ko = 언어설정
 		fr = Paramètres de langue
+		ko = 언어 설정
 	[info_location_settings_action]
 		en = Location Settings
 		es = Configuración de ubicación
 		zh = 地点设置
-		ko = 위치설정
-		fr = Les paramètres de localisation
+		fr = Paramètres de localisation
+		ko = 위치 설정
 	[info_supported_by_header]
 		en = Supported By
 		es = Patrocinado por
 		zh = 技术支持
+		fr = Soutenu par
+		ko = 지원
 		comment = This doesn't exist on iOS (baked into Bloomberg logo image)
 	[info_buy_tickets_action]
 		en = Buy Tickets
 		es = Comprar boletos
 		zh = 购票
+		fr = Acheter des billets
+		ko = 티켓 구매
 	[info_dial_prompt]
 		en = Select an app to dial that number
 	[info_map_prompt]
@@ -59,12 +75,18 @@
 		en = Version %1$@
 		es = Versión %1$@
 		zh = 版本 %1$@
+		fr = Version %1$@
+		ko = 버전 %1$@
 	[info_designed_by]
 		en = Designed by Potion
 		es = Diseñado por Potion
 		zh = 设计人员 Potion
+		fr = Conçu par Potion
+		ko = 디자인
 		comment = This is only used on iOS
 	[info_member_log_in_header]
 		en = Already a Member?
 		es = ¿Ya es miembro?
 		zh = 已经是会员？
+		fr = Déjà membre ?
+		ko = 이미 회원이십니까?

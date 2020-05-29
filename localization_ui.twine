@@ -3,11 +3,17 @@
 		en = Language Settings
 		es = Configuración de idiomas
 		zh = 语言设置
+		fr = Paramètres de langue
+		ko = 언어 설정
 	[language_settings_body]
 		en = Some content may not be available in your selected language.
 		es = Es posible que cierta información no esté disponible en el idioma seleccionado.
 		zh = 某些内容可能不提供您所选择的语言版本。
+		fr = Certains contenus peuvent ne pas être disponibles dans la langue que vous avez choisie.
+		ko = 일부 내용은 선택하신 언어로 지원되지 않을 수 있습니다.
 	[language_settings_header]
 		en = Please Choose Your Preferred Language
 		es = Elija su idioma de preferencia
 		zh = 请选择您的首选语言
+		fr = Veuillez choisir votre langue préférée
+		ko = 선호하는 언어를 선택하세요

@@ -3,158 +3,228 @@
 		en = English
 		es = Español
 		zh = 中文
+		fr = Anglais
+		ko = 영어
 	[welcome_title]
 		en = Welcome
 		es = Bienvenido
 		zh = 欢迎
+		fr = Accueil
+		ko = 반갑습니다
 	[tour_play_tour_introduction_action]
 		en = Play Tour Introduction
 		es = Reproducir la Presentación del Tour
 		zh = 播放游览简介
+		fr = Lancer la visite
+		ko = 오디오 투어 설명 플레이
 	[search_suggested]
 		en = Suggested
 		es = Sugeridos
 		zh = 推荐项目
+		fr = Suggéré
+		ko = 제안
 	[search_on_the_map_header]
 		en = On the map
 		es = Mapa
 		zh = 在地图上
+		fr = Sur la carte
+		ko = 지도에 나온 대로
 	[welcome_member_card_action]
 		en = Access your member card
 		es = Acceda a su tarjeta para miembros
 		zh = 访问您的会员卡。
+		fr = Accédez à votre carte de membre
+		ko = 회원 카드 액세스
 	[welcome_tours_header]
 		en = Tours
 		es = Visitas
 		zh = 游览
+		fr = Visites
+		ko = 오디오 작품 설명 투어
 	[welcome_on_view_header]
 		en = On View
 		es = En vista
 		zh = 当前展览
+		fr = En vue
+		ko = 현재 전시중
 	[welcome_see_all_action]
 		en = See All
 		es = Ver todo
 		zh = 查看全部
+		fr = Voir tout
+		ko = 모두 보기
 	[tour_stop_count]
 		en = %@ Stops
-		es = %@ Terminas
-		zh = %@ 停止
+		es = %@ Stops
+		zh = %@ Stops
+		fr = %@ Stops
+		ko = %@ Stops
 	[welcome_events_header]
 		en = Events
 		es = Eventos
 		zh = 活动
+		fr = Événements
+		ko = 행사
 	[tour_audio_channel_name]
 		en = Audio
 		es = Audio
 		zh = 音频
+		fr = Audio
+		ko = 오디오
 	[audio_info_transcript_header]
 		en = Transcript
 		es = Texto
 		zh = 脚本
+		fr = Transcription
+		ko = 기록
 	[audio_info_credits_header]
 		en = Credits
 		es = Créditos
 		zh = 信用
+		fr = Crédits
+		ko = 크레딧
 	[tour_leave_tour_title]
 		en = Leave Current Tour?
 		es = ¿Salir del Tour Actual?
 		zh = 退出当前游览？
+		fr = Quitter la visite en cours ?
+		ko = 진행중인 작품 투어 종료
 	[tour_leave_tour_cancel_action]
 		en = Continue Tour
 		es = Continuar
 		zh = 继续游览
+		fr = Continuer la visite
+		ko = 작품 투어 계속하기
 	[tour_leave_tour_leave_action]
 		en = Leave Tour
 		es = Salir
 		zh = 离开游览
+		fr = Quitter la visite
+		ko = 작품 투어 종료
 	[tab_home]
 		en = Home
 		es = Inicio
 		zh = 首页
-		ko = 집
 		fr = Accueil
+		ko = 홈
 	[tab_info]
 		en = Info
 		es = Información
 		zh = 信息
+		fr = Infos
 		ko = 정보
-		fr = Info
 	[tab_map]
 		en = Map
 		es = Mapa
 		zh = 地图
-		ko = 지도
 		fr = Carte
+		ko = 지도
 	[tab_audio]
 		en = Audio
 		es = Audio
 		zh = 音频
+		fr = Audio
 		ko = 오디오
-		fr = l'audio
 	[search_title]
 		en = Search
 		es = Búsqueda
 		zh = 搜索
+		fr = Recherche
+		ko = 검색
 	[search_prompt]
 		en = Looking for Artwork?
 		es = ¿Buscando obras de arte?
 		zh = 寻找艺术品？
+		fr = Recherchez-vous des œuvres d’art ?
+		ko = 미술작품 찾기
 	[tour_start_tour_action]
 		en = Start Tour
 		es = Comenzar visita
 		zh = 开始游览
+		fr = Commencer la visite
+		ko = 작품 투어 시작
 	[content_through_date]
 		en = Through %@
 		es = Hasta %@
 		zh = 通過 %@
+		fr = Par %@
+		ko = 까지	 %@
 	[event_buy_tickets_action]
 		en = Buy Tickets
 		es = Comprar boletos
 		zh = 购票
+		fr = Acheter des billets
+		ko = 티켓구매
 		comment = Currently not used in iOS
 	[event_register_action]
 		en = Register
 		es = Registro
 		zh = 寄存器
+		fr = S’inscrire
+		ko = 등록
 		comment = Currently not used in iOS
 	[content_play_audio_action]
 		en = Play Audio
 		es = Reproducir audio
 		zh = 播放音频
+		fr = Jouer l’audio
+		ko = 오디오 플레이
 	[content_show_on_map_action]
 		en = Show on Map
 		es = Ver mapa
 		zh = 在地图上显示
+		fr = Afficher sur la carte
+		ko = 지도에서 보기
 	[content_gallery_number]
 		en = Gallery %@
 		es = Galería %@
 		zh = 画廊 %@
+		fr = Galerie %@
+		ko = 갤러리 %@
 		comment = Currently not used in iOS
 	[welcome_title_logged_in]
 		en = Welcome, %@
 		es = Bienvenido, %@
 		zh = 欢迎, %@
+		fr = Accueil, %@
+		ko = 환영합니다 %@
 		comment = Currently not used in iOS
 	[event_rental_visit_website_prompt]
 		en = Visit our website to register.
 		es = Visite nuestro sitio web para registrarse.
 		zh = 訪問我們的網站進行註冊。
+		fr = Visitez notre site web pour vous inscrire.
+		ko = 등록을 위해서는 웹사이트를 방문하세요
 		comment = Currently not used in iOS
 	[global_cancel_action]
 		en = Not Right Now
 		es = No Ahora
 		zh = 不是现在
+		fr = Pas maintenant
+		ko = 추후에
 	[global_accept_action]
 		en = Ok
 		es = Ok
 		zh = 确定
+		fr = Ok
+		ko = 확인
 	[global_error_title]
 		en = Error
+		fr = Erreur
+		ko = 오류
 	[global_loading_error_title]
 		en = Loading Error
+		fr = Erreur de chargement
+		ko = 데이터 로딩 오류
 	[global_loading_error_general]
 		en = Failed to load application data.
+		fr = Impossible de charger les données de l’application.
+		ko = 지원 데이터 로드 실패
 	[global_loading_error_no_connectivity]
 		en = No internet connection.
+		fr = Pas de connexion internet.
+		ko = 인터넷에 연결되어 있지 않습니다.
 	[global_loading_error_time_out]
 		en = Network time out. Please try again.
+		fr = Temporisation réseau. Veuillez réessayer.
+		ko = 네트워크 연결 시간 초과. 다시 시도해 보세요.

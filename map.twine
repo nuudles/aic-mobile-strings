@@ -3,56 +3,84 @@
 		en = Dismiss
 		es = Anular
 		zh = 抛弃
+		fr = Annuler
+		ko = 해제
 	[map_next_action]
 		en = Next
 		es = Siguiente
 		zh = 下一个
+		fr = Suivant
+		ko = 다음
 	[map_back_action]
 		en = Back
 		es = Atras
 		zh = 背部
+		fr = Retour
+		ko = 뒤로
 	[map_close_content_description]
 		en = Close
 		es = Cerrar
 		zh = 关闭
+		fr = Fermer
+		ko = 닫기
 		comment = This doesn't exist on iOS
 	[map_tutorial_floor_picker_prompt]
 		en = You are on the %@\nTap to change floors.
 		es = Usted está en %@\nTocar para cambiar las pistas.
 		zh = 您在%@\n点击更换地板。
+		fr = Vous êtes sur %@\nAppuyer pour changer d’étages.
+		ko = 당신은 층을 변경하기 위하여 %@\n탭에 있습니다.
 	[map_tutorial_orient_map]
 		en = Tap to Orient Map
 		es = Presione para orientar el mapa
 		zh = 放大缩小以探索地图。
+		fr = Appuyer sur la carte d’orientation
+		ko = 오리엔트 지도 탭하기
 	[map_tutorial_explore_title]
 		en = Explore The Map
 		es = Explorar el mapa
 		zh = 探索地图
+		fr = Explorer la carte
+		ko = 지도 탐색
 	[map_tutorial_explore_text]
 		en = Pinch to explore the map.
 		es = Apretar y acercar para explorar el mapa.
 		zh = 缩放以探索地图。
+		fr = Pincer pour explorer la carte.
+		ko = 지도를 탐색하려면 누르세요.
 	[map_tutorial_audio_pins_title]
 		en = Tap Audio Pins to Listen
 		es = Tocar los pines de audio para escuchar
 		zh = 点击音频引脚进行收听
+		fr = Appuyer sur les broches audios pour écouter
+		ko = 오디오 핀을 들으시려면 탭하세요.
 	[map_tutorial_audio_pins_text]
 		en = Transparent pins indicate audio on a different floor.
 		es = Los pines transparentes indican audio en una pista diferente.
 		zh = 不同楼层上的透明引脚指示音频
+		fr = Les broches transparentes indiquent que le son se trouve à un autre étage.
+		ko = 투명한 핀은 다른 층의 오디오를 나타냅니다.
 	[map_lower_level]
 		en = Lower Level
 		es = Planta baja
 		zh = 下层
+		fr = Niveau inférieur
+		ko = 로우어 레벨
 	[map_first_level]
 		en = First Level
 		es = Primer piso
 		zh = 一层
+		fr = Premier niveau
+		ko = 첫번째 레벨
 	[map_second_level]
 		en = Second Level
 		es = Segundo piso
 		zh = 二层
+		fr = Deuxième niveau
+		ko = 두번째 레벨
 	[map_third_level]
 		en = Third Level
 		es = Tercer piso
 		zh = 三层
+		fr = Troisième niveau
+		ko = 세번째 레벨

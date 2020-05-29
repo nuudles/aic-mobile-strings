@@ -3,28 +3,42 @@
 		en = Sorry, we couldn’t find that.
 		es = Lo sentimos, no encontramos resultados
 		zh = 抱歉，我们无法找到。
+		fr = Désolé, nous n’avons pas pu trouver cela.
+		ko = 죄송합니다. 찾을 수 없습니다.
 	[search_no_results_message]
 		en = For help, visit the nearest museum representative or
 		es = Para obtener ayuda, visite al representante del museo más cercano o
 		zh = 如需帮助，请咨询最近的博物馆人员或
+		fr = Pour obtenir de l’aide, rendez-vous chez le représentant du musée le plus proche ou
+		ko = 도움이 필요하다면, 가장 가까운 박물관 담당자를 방문하거나
 		comment = This is broken up on iOS
 	[search_no_results_visit_website_action]
 		en = visit our website
 		es = visite nuestro sitio web
 		zh = 访问我们的网站
+		fr = Visitez notre site web
+		ko = 웹사이트를 방문해 주십시오.
 	[search_artworks_header]
 		en = Artworks
 		es = Obras de arte
 		zh = 艺术作品
+		fr = Œuvres d’art
+		ko = 작품
 	[search_exhibitions_header]
 		en = Exhibitions
 		es = Exhibiciones
 		zh = 展览
+		fr = Expositions
+		ko = 전시
 	[map_card_exhibition_title]
 		en = Exhibition
 		es = Exhibición
 		zh = 展览
+		fr = Exposition
+		ko = 전시
 	[map_card_artwork_title]
 		en = Artwork
 		es = Obra de arte
 		zh = 艺术品
+		fr = Œuvre d’art
+		ko = 작품

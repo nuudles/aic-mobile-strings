@@ -3,8 +3,12 @@
 		en = Go
 		es = Va
 		zh = 走
+		fr = Lancer
+		ko = 진행
 	[number_pad_delete_description]
 		en = Delete
 		es = Borrar
 		zh = 删除
+		fr = Supprimer
+		ko = 삭제
 		comment = Currently not used in iOS

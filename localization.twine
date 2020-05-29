@@ -3,20 +3,20 @@
 		en = English
 		es = Inglés
 		zh = 英文
+		fr = Anglais
 		ko = 영어
-		fr = Anglaise
 	[localization_spanish]
 		en = Spanish
 		es = Español
 		zh = 西班牙语
-		ko = 스페인의
 		fr = Espagnol
+		ko = 스페인어
 	[localization_chinese]
 		en = Chinese
 		es = Chino
 		zh = 中文
-		ko = 중국말
-		fr = Chinoise
+		fr = Chinois
+		ko = 중국어
 	[localization_korean]
 		en = Korean
 		es = Coreano
