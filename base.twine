@@ -203,10 +203,10 @@
 		fr = Pas maintenant
 		ko = 추후에
 	[global_accept_action]
-		en = Ok
-		es = Ok
+		en = OK
+		es = OK
 		zh = 确定
-		fr = Ok
+		fr = OK
 		ko = 확인
 	[global_error_title]
 		en = Error
@@ -228,3 +228,15 @@
 		en = Network time out. Please try again.
 		fr = Temporisation réseau. Veuillez réessayer.
 		ko = 네트워크 연결 시간 초과. 다시 시도해 보세요.
+	[messages_next_action]
+		en = Next Message
+		es = Mensaje siguiente
+		zh = 下一條訊息
+		fr = Message suivant
+		ko = 다음 메시지
+	[messages_previous_action]
+		en = Previous Message
+		es = Mensaje anterior
+		zh = 上一條訊息
+		fr = Message précédent
+		ko = 이전 메시지
